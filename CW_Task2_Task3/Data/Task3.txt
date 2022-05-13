@@ -1,0 +1,56 @@
+
+Cabin 0 Passenger 0 is Empty
+
+Cabin number: 0 Passenger 1
+
+Passenger firstname: isuru
+Passenger surname: isuru
+Passenger Expenses: 1000
+
+Cabin 0 Passenger 2 is Empty
+
+Cabin 1 Passenger 0 is Empty
+
+Cabin number: 1 Passenger 1
+
+Passenger firstname: shamal
+Passenger surname: shamal
+Passenger Expenses: 2000
+
+Cabin 1 Passenger 2 is Empty
+
+Cabin 2 Passenger 0 is Empty
+
+Cabin number: 2 Passenger 1
+
+Passenger firstname: dilanga
+Passenger surname: dilanga
+Passenger Expenses: 3000
+
+Cabin 2 Passenger 2 is Empty
+
+Cabin 3 Passenger 0 is Empty
+
+Cabin number: 3 Passenger 1
+
+Passenger firstname: dissa
+Passenger surname: dissa
+Passenger Expenses: 1000
+
+Cabin 3 Passenger 2 is Empty
+
+Cabin 4 is Empty
+
+Cabin 5 is Empty
+
+Cabin 6 is Empty
+
+Cabin 7 is Empty
+
+Cabin 8 is Empty
+
+Cabin 9 is Empty
+
+Cabin 10 is Empty
+
+Cabin 11 is Empty
